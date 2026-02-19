@@ -6,7 +6,7 @@
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
         if not head or not head.next:
-            return head
+            return True
         slow=head
         fast=head
         while fast and fast.next:
