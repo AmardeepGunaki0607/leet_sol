@@ -10,6 +10,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0412-fizz-buzz](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0412-fizz-buzz/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
