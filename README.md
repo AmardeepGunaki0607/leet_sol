@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0088-merge-sorted-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0412-fizz-buzz/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
