@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
