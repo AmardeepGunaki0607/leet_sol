@@ -64,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0020-valid-parentheses/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
