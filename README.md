@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0009-palindrome-number/) | Easy |
+| [0029-divide-two-integers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0029-divide-two-integers/) | Medium |
 | [0412-fizz-buzz](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0412-fizz-buzz/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Recursion
@@ -81,4 +82,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
