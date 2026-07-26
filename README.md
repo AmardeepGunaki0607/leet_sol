@@ -21,6 +21,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0088-merge-sorted-array/) | Easy |
@@ -72,4 +73,12 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0177-nth-highest-salary/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
