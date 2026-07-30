@@ -74,6 +74,7 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0175-combine-two-tables/) | Easy |
 | [0177-nth-highest-salary](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0177-nth-highest-salary/) | Medium |
+| [0196-delete-duplicate-emails](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0196-delete-duplicate-emails/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
