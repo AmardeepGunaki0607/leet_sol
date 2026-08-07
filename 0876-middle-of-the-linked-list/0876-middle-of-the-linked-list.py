@@ -11,7 +11,7 @@ class Solution:
         while curr!=None:
             curr=curr.next
             l+=1
-
+    
         curr=head
         for i in range(l//2):
             curr=curr.next
