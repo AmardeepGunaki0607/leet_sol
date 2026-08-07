@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0088-merge-sorted-array/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/AmardeepGunaki0607/leet_sol/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
